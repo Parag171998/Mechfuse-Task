@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680520483995",
+    "firebase_url": "https://mechfuse.firebaseio.com",
+    "project_id": "mechfuse",
+    "storage_bucket": "mechfuse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680520483995:android:8ce4d0d4e6319b7ac0723e",
+        "android_client_info": {
+          "package_name": "com.example.mechfuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680520483995-pknj46evn0qtjqap16v73t4i34eoefkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9z_pzGp8RbCypTmTFOujyUbCwDJR4kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680520483995-pknj46evn0qtjqap16v73t4i34eoefkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
